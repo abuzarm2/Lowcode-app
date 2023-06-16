@@ -1,0 +1,34 @@
+.mat-row {
+    height: auto;
+  }
+  .table_div{
+    align-content: center;
+  }
+  .mat-header-cell{
+    padding: 15px 15px 15px 15px;
+    border: 1px solid black;
+    align-content: center;
+  }
+  .mat-cell {
+    padding: 15px 15px 15px 15px;
+    border: 1px solid black;
+    align-content: center;
+    
+  }
+  .mat-header-cell{
+    background-color: #5161ce;
+    color: white;
+  }
+  .mat-table {
+    border: 1px solid black;
+    padding: 30px 30px 30px 30px;
+    
+  }
+  #table{
+    margin: auto;
+  }
+  .custom-input {
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+  }

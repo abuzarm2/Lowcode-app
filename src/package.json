@@ -1,0 +1,8 @@
+{
+    "name": "OA Application",
+    "productName": "Orthogonal Array",
+    "version": "1.0.0",
+    "description": "Orthogonal Array",
+    "main": "electron.prod.js",
+    "license": "MIT"
+}
